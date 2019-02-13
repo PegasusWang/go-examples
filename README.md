@@ -2,7 +2,7 @@
 
 [![Build Status](https://www.travis-ci.org/go-up/go-examples.svg?branch=master)](https://www.travis-ci.org/go-up/go-examples)
 
-Some examples written using golang third party packages.
+Examples written using golang third party packages.
 
 ## Getting Started
 
