@@ -32,6 +32,7 @@ go build
 - [sqlx](/sqlx)
 - [swag](/swag)
 - [websocket](/websocket)
+- [zerolog](/zerolog)
 
 ## License
 
